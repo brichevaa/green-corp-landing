@@ -233,8 +233,8 @@ footer {
 .about__sun-image  {
     animation: rotation 10s linear infinite;
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
 }
 @keyframes rotation {
         0% {
